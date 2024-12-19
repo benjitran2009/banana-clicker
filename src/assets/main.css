@@ -1,0 +1,19 @@
+/*******************************************************
+ *
+ * This code uses assets from Banana Clicker
+ * 
+ * Copyright (C) Ben3Coder Software
+ * (https://ben3coder.dev)
+ * (https://github.com/benjitran2009/banana-clicker/)
+ * 
+ *******************************************************/
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* This will make the container take up the full height of the viewport */
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
